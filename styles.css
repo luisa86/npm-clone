@@ -1,0 +1,253 @@
+
+
+body {
+  font-family: "Open Sans","OpenSans",sans-serif;
+  width: 100%;
+  height: 100%;
+}
+
+
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding: 25px 0px;
+  font-size: 13px;
+
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+.top-links {
+  float: right;
+  display: inline-block;
+  padding: 0;
+  margin: 0 20px 0 0;
+  font-size: 20px;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.top-links a {
+  font-size: 15px;
+  font-family: arial;
+  margin-top: 10px;
+
+}
+
+.top-left{
+  float: left;
+}
+
+header {
+  background-image: url(images/city-scape.svg);
+  height: 400px;
+  width: 100%;
+  color: white;
+}
+
+header a{
+  color: white;
+  text-decoration: none;
+  margin: 30px;
+}
+
+.img-npm{
+   padding-top: 14px;
+   padding-left: 25px;
+}
+
+header input{
+  background: transparent;
+  width: 1000px;
+  height: 40px;
+  margin-left: 20px;
+  margin-bottom: 35px;
+}
+
+#buttonheader{
+  background: transparent;
+  height: 40px;
+  margin-left: -7px;
+  width: 51px;
+  padding-bottom: 20px;
+
+
+}
+
+.img-search{
+  width: 25px;
+  height: 20px;
+
+}
+
+.bear-logo{
+  width: 3%;
+  float: right;
+  margin-top: -81px;
+  margin-right: 24px;
+}
+
+.build{
+  width: 40%;
+  float: left;
+  margin-left: 237px;
+}
+
+.button-build{
+  background: #f09233;
+  color: white;
+}
+
+#colaboration{
+  width: 100%;
+  margin: 0 auto;
+}
+
+.npm-orgs{
+  float: right;
+  width: 400px;
+  height: 200px;
+  margin-top: -225px;
+  margin-right: 100px;
+
+}
+
+.button-colaboration{
+  color: white;
+  color: #fff;
+  background-color: #ac2e2d;
+  outline: none;
+}
+
+.btn{
+  font-weight: 400;
+  border-radius: 20px;
+  padding: 7px 26px 8px 26px;
+  font-size: 18px;
+  text-align: center;
+  outline: none;
+  border: 1px solid transparent;
+}
+
+.center-colaboration{
+  width: 0 auto;
+  margin: 0 auto;
+}
+
+.colors-colaboration {
+  color: White;
+  background: rgb(39, 53, 71);
+  width: 400px;
+  height: 550px;
+
+}
+
+.text{
+  text-decoration: none;
+  color: white;
+}
+
+.border-img{
+  margin-top: 100px;
+}
+
+.img-colaboration {
+  width: 600px;
+  height: 300px;
+  margin: 0px 0px 0px 250px;
+}
+
+.img-cite{
+  float: right;
+}
+
+#information{
+   font: white;
+   position: relative;
+   background-image: url(/Users/luisafernandasalazarhoyos/Desktop/lab-html-module-exercise-master/starter-code/images/forklift.svg);
+   background-size: cover;
+   height: 600px;
+   width: 100%;
+   margin-top: -20px;
+}
+
+.text-information {
+  float: right;
+  padding-right: 400px;
+  padding-top: 100px;
+
+}
+
+.color-button-inf{
+  background-color: rgb(49, 68, 88);
+  color: white;
+  margin-left: 199px;
+}
+
+h3 {
+  font-size: 36px !important;
+  color: white;
+  margin-left: 199px;
+  margin-bottom: 8px;
+
+}
+
+.p-inf{
+  color: white;
+  width: 40%;
+  margin: 0 0 0 200px;
+  padding: 40px 0 40px 0;
+  section: relative;
+
+}
+
+#blocks{
+  color: #6d7986;
+  background: white;
+  height: 100px;
+  margin: auto;
+  padding: 20px 0 400px 0;
+  text-align: center;
+}
+
+.blocks-title{
+  text-align: center !important;
+  font-weight: 300 !important;
+  font-size: xx-large;
+  color: black;
+}
+
+.p-blocks{
+  text-align: center !important;
+}
+
+.text-find{
+  text-decoration: none;
+  color: rgb(208, 74, 73);
+}
+
+.col{
+  float:left;
+  margin-top: 50px;
+}
+.col-3{
+  width: 20%;
+}
+.col-left{
+  margin-left: 10%;
+  margin-top: 50px;
+}
+.col-med{
+  margin: 0 10%;
+  margin-top: 50px;
+}
+.col-right{
+  margin-right: 10%;
+  margin-top: 50px;
+}
